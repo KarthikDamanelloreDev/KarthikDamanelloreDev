@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Clean simple header - no shark banners -->
-<img src="https://img.shields.io/badge/Karthik%20Damanellore-0f172a?style=for-the-badge&labelColor=0f172a" height="50"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=0f172a&center=true&vCenter=true&width=600&lines=Karthik+Damanellore" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=800&color=0969da&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%40+Viljetech+Labs;Building+AI-Powered+Enterprise+Systems;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+FastAPI;Computer+Vision+%C2%B7+LLM+%C2%B7+Cloud+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=800&color=0969da&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Viljetech+Labs;Building+AI-Powered+Enterprise+Systems;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+FastAPI;Computer+Vision+%C2%B7+LLM+%C2%B7+Cloud+Architecture;Shipping+Production-Grade+Products+Since+2022" />
 
 <br/>
 
@@ -31,19 +28,19 @@
 <table>
 <tr>
 <td width="3%" align="center" valign="top"><br/><img src="https://img.shields.io/badge/%20-0969da?style=flat-square" width="10" height="10"/><br/><sub>┊</sub><br/><sub>┊</sub></td>
-<td valign="top"><img src="https://img.shields.io/badge/AI%20Vision%20%26%20Surveillance%20Systems-0969da?style=flat-square&logo=opencv&logoColor=white" width="100%"/><br/><br/><sub>Real-time intelligent monitoring pipelines, anomaly detection, fire alerts, edge inference, and computer vision systems — deployed at scale across critical infrastructure.</sub><br/><br/></td>
+<td valign="top"><br/><b>AI Vision & Surveillance Systems</b><br/><sub>Real-time intelligent monitoring pipelines, anomaly detection, fire alerts, edge inference, and computer vision systems — deployed at scale across critical infrastructure.</sub><br/><br/></td>
 </tr>
 <tr>
 <td width="3%" align="center" valign="top"><img src="https://img.shields.io/badge/%20-1e40af?style=flat-square" width="10" height="10"/><br/><sub>┊</sub><br/><sub>┊</sub></td>
-<td valign="top"><img src="https://img.shields.io/badge/Enterprise%20Web%20Platforms-1e40af?style=flat-square&logo=react&logoColor=white" width="100%"/><br/><br/><sub>Scalable full-stack dashboards, incident management consoles, command-center UIs, and enterprise admin portals built with React, Next.js, and Node.js.</sub><br/><br/></td>
+<td valign="top"><br/><b>Enterprise Web Platforms</b><br/><sub>Scalable full-stack dashboards, incident management consoles, command-center UIs, and enterprise admin portals built with React, Next.js, and Node.js.</sub><br/><br/></td>
 </tr>
 <tr>
 <td width="3%" align="center" valign="top"><img src="https://img.shields.io/badge/%20-8250df?style=flat-square" width="10" height="10"/><br/><sub>┊</sub><br/><sub>┊</sub></td>
-<td valign="top"><img src="https://img.shields.io/badge/LLM%20%26%20GenAI%20Integrations-8250df?style=flat-square&logo=openai&logoColor=white" width="100%"/><br/><br/><sub>LangChain RAG pipelines, AI Voice Assistants, vector search with pgvector and Pinecone, and production LLM-Ops tooling powering Viljetech's intelligent product suite.</sub><br/><br/></td>
+<td valign="top"><br/><b>LLM & GenAI Integrations</b><br/><sub>LangChain RAG pipelines, AI Voice Assistants, vector search with pgvector and Pinecone, and production LLM-Ops tooling powering Viljetech's intelligent product suite.</sub><br/><br/></td>
 </tr>
 <tr>
 <td width="3%" align="center" valign="top"><img src="https://img.shields.io/badge/%20-bc4c00?style=flat-square" width="10" height="10"/></td>
-<td valign="top"><img src="https://img.shields.io/badge/Cross--Platform%20Mobile%20Apps-bc4c00?style=flat-square&logo=expo&logoColor=white" width="100%"/><br/><br/><sub>React Native and Expo apps with offline-first design, live push notifications, and native performance — deployed across Viljetech's client platforms.</sub><br/><br/></td>
+<td valign="top"><br/><b>Cross-Platform Mobile Apps</b><br/><sub>React Native and Expo apps with offline-first design, live push notifications, and native performance — deployed across Viljetech's client platforms.</sub><br/><br/></td>
 </tr>
 </table>
 
@@ -51,7 +48,8 @@
 
 **My Role at Viljetech Labs** &nbsp;·&nbsp; <sub>March 2022 – Present · 3+ Years · Front-End Developer — React JS · Full-Stack · AI Systems</sub>
 
-<!-- HORIZONTAL TIMELINE -->
+<br/>
+
 <table>
 <tr>
 <td align="center" width="23%"><img src="https://img.shields.io/badge/%E2%97%8F%20Product%20Engineering-0969da?style=flat-square" width="100%"/></td>
