@@ -1,81 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:1d4ed8&height=200&section=header&text=Karthik%20Damanellore&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=Full%E2%80%91Stack%20%20%C2%B7%20%20AI%20Systems%20%20%C2%B7%20%20Cloud%20Architect&descSize=15&descAlignY=72&descColor=bfdbfe" width="100%"/>
-
-<br/>
-
-<p>
-Engineering <strong>AI-powered monitoring</strong>, vision systems, and enterprise orchestration<br/>
-for high-impact technical platforms from Hyderabad, India.
-</p>
-
-<br/>
-
-<a href="https://karthik-dev-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-karthik--dev--portfolio.netlify.app-0969da?style=flat-square&labelColor=f6f8fa&color=0969da" height="26"/>
-</a>
-&nbsp;
-<a href="mailto:damanellorekarthik@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-damanellorekarthik%40gmail.com-c4432b?style=flat-square&labelColor=f6f8fa&color=c4432b" height="26"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0A66C2?style=flat-square&labelColor=f6f8fa&color=0A66C2" height="26"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e40af&height=150&text=Karthik%20Damanellore&fontSize=46&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Architect&descSize=14&descAlignY=75&descColor=bfdbfe" width="100%"/>
 
 <br/><br/>
 
+<a href="https://karthik-dev-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0969da?style=flat-square&logo=netlify&logoColor=white" height="26"/></a>
+&nbsp;
+<a href="mailto:damanellorekarthik@gmail.com"><img src="https://img.shields.io/badge/Email-c4432b?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>
+&nbsp;
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Projects-1a7f37?style=flat-square" height="26"/>
+
+<br/><br/>
+
+<sup>Engineering AI-powered monitoring, vision systems, and enterprise orchestration · Hyderabad, India</sup>
+
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/3+-0969da?style=flat-square&labelColor=ddf4ff&color=0969da" height="28"/><br/>
-    <sub><b>YEARS EXP.</b></sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/8-1a7f37?style=flat-square&labelColor=dafbe1&color=1a7f37" height="28"/><br/>
-    <sub><b>PROJECTS SHIPPED</b></sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/3-8250df?style=flat-square&labelColor=fbefff&color=8250df" height="28"/><br/>
-    <sub><b>CLOUD PLATFORMS</b></sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/AI%20%C2%B7%20Vision-bc4c00?style=flat-square&labelColor=fff1e5&color=bc4c00" height="28"/><br/>
-    <sub><b>PRIMARY FOCUS</b></sub>
-  </td>
+  <td align="center" width="170"><h3>3+</h3><sub><b>YEARS EXP.</b></sub></td>
+  <td align="center" width="10"><sub>│</sub></td>
+  <td align="center" width="170"><h3>8</h3><sub><b>PROJECTS</b></sub></td>
+  <td align="center" width="10"><sub>│</sub></td>
+  <td align="center" width="170"><h3>3</h3><sub><b>CLOUD PLATFORMS</b></sub></td>
+  <td align="center" width="10"><sub>│</sub></td>
+  <td align="center" width="170"><h3>AI · Vision</h3><sub><b>PRIMARY FOCUS</b></sub></td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 ---
 
-<h3>What I Build</h3>
+**What I Build**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AI Vision & Monitoring Systems**<br/>
-<sub>Real-time surveillance pipelines, anomaly detection, edge inference, and computer vision at scale. WebRTC + Python FastAPI + YOLO.</sub>
+**AI Vision & Monitoring Systems**
 
-<br/>
-
-**LLM-Powered Applications**<br/>
-<sub>LangChain RAG pipelines, vector search with Pinecone and pgvector, GenAI integrations and LLM-Ops tooling.</sub>
+Real-time surveillance pipelines, anomaly detection, edge inference, and computer vision at scale using WebRTC, Python, FastAPI, and YOLO.
 
 </td>
 <td width="50%" valign="top">
 
-**Enterprise Orchestration**<br/>
-<sub>Microservices architecture, API gateways, Kafka event streams, and distributed system design at production scale.</sub>
+**LLM-Powered Applications**
 
-<br/>
+LangChain RAG pipelines, vector search with Pinecone and pgvector, GenAI integrations and production LLM-Ops tooling.
 
-**Cross-Platform Mobile**<br/>
-<sub>React Native and Expo apps with offline-first design, native performance, and seamless backend integration.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Enterprise Orchestration**
+
+Microservices, API gateways, Kafka event streams, and distributed system design at production scale.
+
+</td>
+<td width="50%" valign="top">
+
+**Cross-Platform Mobile**
+
+React Native and Expo apps with offline-first design, native performance, and seamless cloud backend integration.
 
 </td>
 </tr>
@@ -83,96 +77,81 @@ for high-impact technical platforms from Hyderabad, India.
 
 ---
 
-<h3>Tech Stack</h3>
+**Tech Stack**
 
-**Frontend & UI**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css,figma&theme=light" height="38"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma,nodejs,express,python,fastapi,postgres,mongodb,redis,docker,aws,azure,gcp,git,github,linux&theme=light&perline=5"/>
 </p>
 
-**Backend & APIs**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=light" height="38"/>
-</p>
-
-**Data & AI**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" height="38"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Pinecone-6e40c9?style=flat-square" height="26"/>
-<img src="https://img.shields.io/badge/GenAI%20%2F%20LLM%20Ops-0969da?style=flat-square" height="26"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker&theme=light" height="38"/>
-</p>
-
-**Mobile**
-<p>
-<img src="https://skillicons.dev/icons?i=react&theme=light" height="38"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" height="26"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" height="26"/>
+<p align="center">
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-6e40c9?style=flat-square"/>
+<img src="https://img.shields.io/badge/GenAI%20%2F%20LLM%20Ops-0969da?style=flat-square"/>
 </p>
 
 ---
 
-<h3>GitHub Analytics</h3>
+**Experience**
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=KarthikDamanelloreDev&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=f6f8fa&custom_title=Activity%20Overview" width="100%"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikDamanelloreDev&layout=compact&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=f6f8fa&custom_title=Languages" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikDamanelloreDev&hide_border=true&stroke=eaeef2&ring=0969da&fire=0969da&currStreakLabel=0969da&background=f6f8fa&sideLabels=656d76&dates=9198a1&currStreakNum=1f2328&sideNums=1f2328" width="100%"/>
-
----
-
-<h3>Experience</h3>
-
-<img src="https://img.shields.io/badge/Viljetech%20Labs%20Pvt%20Ltd-Current-1a7f37?style=flat-square&labelColor=dafbe1" height="24"/>
+<img src="https://img.shields.io/badge/Viljetech%20Labs%20Pvt%20Ltd%20·%20Hyderabad-1a7f37?style=flat-square&labelColor=dafbe1"/>
 &nbsp;
-<img src="https://img.shields.io/badge/March%202022%20–%20Present-3%2B%20Years-0969da?style=flat-square&labelColor=ddf4ff" height="24"/>
+<img src="https://img.shields.io/badge/March%202022%20–%20Present%20·%203%2B%20Years-0969da?style=flat-square&labelColor=ddf4ff"/>
 
-**Front-End Developer — React JS · Hyderabad**
+**Front-End Developer — React JS**
 
-- Developed scalable web apps with **ReactJS + NodeJS**; responsive UI with HTML5/CSS3 — boosted UX by **+20%**
-- React hooks improved maintainability by **15%**; TypeScript adoption reduced bugs by **25%**
-- Built reusable component library cutting dev time by **30%**; leveraged **Next.js** and **Redux** throughout
-- Mobile-first design with **React Native + Expo**, Figma-to-code implementations — **+10% user satisfaction**
-- NodeJS + ExpressJS + MongoDB backend; event-driven patterns across production microservices
+- Developed scalable web apps with **ReactJS + NodeJS**; HTML5/CSS3 responsive UI — boosted UX by **+20%**
+- TypeScript adoption reduced bugs by **25%**; React hooks improved maintainability by **15%**
+- Built reusable component library cutting feature dev time by **30%** using **Next.js + Redux**
+- **React Native + Expo** mobile; Figma-to-code — **+10% user satisfaction**
+- NodeJS + ExpressJS + MongoDB backend across production microservices
 
 ---
 
-<h3>Currently Exploring</h3>
+**Currently Exploring**
 
 <p>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-8250df?style=flat-square&labelColor=fbefff" height="24"/>
-<img src="https://img.shields.io/badge/Real--time%20AI%20Inference-0969da?style=flat-square&labelColor=ddf4ff" height="24"/>
-<img src="https://img.shields.io/badge/Multi--cloud%20Deployments-bc4c00?style=flat-square&labelColor=fff1e5" height="24"/>
-<img src="https://img.shields.io/badge/Semantic%20Search%20at%20Scale-065666?style=flat-square&labelColor=e6fffa" height="24"/>
-<img src="https://img.shields.io/badge/Edge%20Computing-656d76?style=flat-square&labelColor=eaeef2" height="24"/>
-<img src="https://img.shields.io/badge/Micro--frontend%20Architecture-1a7f37?style=flat-square&labelColor=dafbe1" height="24"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-8250df?style=flat-square&labelColor=fbefff"/>
+<img src="https://img.shields.io/badge/Real--time%20AI%20Inference-0969da?style=flat-square&labelColor=ddf4ff"/>
+<img src="https://img.shields.io/badge/Multi--cloud%20Deployments-bc4c00?style=flat-square&labelColor=fff1e5"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-065666?style=flat-square&labelColor=e6fffa"/>
+<img src="https://img.shields.io/badge/Edge%20Computing-656d76?style=flat-square&labelColor=eaeef2"/>
+<img src="https://img.shields.io/badge/Micro--frontend%20Arch-1a7f37?style=flat-square&labelColor=dafbe1"/>
 </p>
 
 ---
 
 <div align="center">
+<br/>
 
-<sub><i>"Build systems that think, scale, and matter."</i></sub><br/>
-<sub>Karthik Damanellore · Hyderabad, India</sub>
+<table>
+<tr>
+  <td align="center">
+    <a href="https://karthik-dev-portfolio.netlify.app"><img src="https://img.shields.io/badge/karthik--dev--portfolio.netlify.app-0969da?style=flat-square&logo=netlify&logoColor=white"/></a>
+  </td>
+  <td align="center">
+    <a href="mailto:damanellorekarthik@gmail.com"><img src="https://img.shields.io/badge/damanellorekarthik%40gmail.com-c4432b?style=flat-square&logo=gmail&logoColor=white"/></a>
+  </td>
+  <td align="center">
+    <a href="tel:+919441570523"><img src="https://img.shields.io/badge/%2B91%2094415%2070523-1a7f37?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hyderabad%2C%20India-eaeef2?style=flat-square&labelColor=eaeef2&color=656d76"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack%20%2B%20AI%20Systems-ddf4ff?style=flat-square&labelColor=ddf4ff&color=0969da"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:1d4ed8&height=100&section=footer" width="100%"/>
+<sub><i>"Build systems that think, scale, and matter."</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e40af&height=6" width="100%"/>
 
 </div>
